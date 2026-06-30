@@ -1,3 +1,11 @@
 .env
-
+__pycache__/
+*.py[cod]
 /langgraph
+
+/chat_bot/__pycache__
+
+chatbot.db
+
+chatbot.db-shm
+chatbot.db-wal
